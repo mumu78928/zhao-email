@@ -1,5 +1,7 @@
 # Email Client (zhao-email)
 
+> 🌐 **Languages**: [简体中文](README.md) | [English](README.en.md)
+
 > ## 🤖 AI 声明
 >
 > 本项目由 **赵佑泽** 提出需求与设计思路，借助 AI 编程助手（TRAE · MiniMax-M3）协助完成代码编写、调试与打包工作。
