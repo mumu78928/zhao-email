@@ -1,5 +1,13 @@
 # Email Client (zhao-email)
 
+> ## 🤖 AI 声明
+>
+> 本项目由 **赵佑泽** 提出需求与设计思路，借助 AI 编程助手（TRAE · MiniMax-M3）协助完成代码编写、调试与打包工作。
+> 项目中的核心架构决策、业务逻辑、问题排查均由人工主导，AI 负责代码实现辅助与技术方案建议。
+> 项目所有权归赵佑泽所有，遵循 Apache License 2.0 开源协议。
+
+---
+
 一个轻量级多账户邮件客户端，支持 IMAP/SMTP 协议，QQ、163、新浪、139 等主流邮箱开箱即用。
 基于 React 18 + TypeScript + Vite + Express 构建，可打包为单文件 Windows EXE。
 
