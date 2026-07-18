@@ -14,6 +14,10 @@ export default defineConfig({
     }),
     tsconfigPaths(),
   ],
+  build: {
+    // 支持更多浏览器版本，包括 Edge >=79, Chrome >=64, Firefox >=67, Safari >=11
+    target: ['edge79', 'chrome64', 'firefox67', 'safari11'],
+  },
   server: {
     proxy: {
       '/api': {
