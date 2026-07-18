@@ -4,9 +4,9 @@
 
 > ## 🤖 AI Declaration
 >
-> This project was conceptualized and designed by **Zhao Youze**, with code implementation, debugging, and packaging assisted by an AI programming assistant (TRAE · MiniMax-M3).
+> This project was developed with the assistance of an AI programming assistant for code writing, debugging, and packaging.
 > Core architectural decisions, business logic, and issue troubleshooting are human-led, while the AI assists with code implementation and technical suggestions.
-> The project is owned by Zhao Youze and released under the Apache License 2.0.
+> The project is owned by mumu78928@github and released under the Apache License 2.0.
 
 ---
 
